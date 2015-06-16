@@ -1,0 +1,25 @@
+{
+  "name": "kitgui-api",
+  "version": "1.0.0",
+  "description": "api for kitgui",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebringj/kitgui-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebringj/kitgui-api/issues"
+  },
+  "homepage": "https://github.com/sebringj/kitgui-api",
+  "dependencies": {
+    "config": "^1.14.0",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.4",
+    "passport": "^0.2.2"
+  }
+}
